@@ -5,4 +5,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Dhasharath04/DSA/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/Dhasharath04/DSA/tree/master/1812-determine-color-of-a-chessboard-square) |
+## String
+|  |
+| ------- |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/Dhasharath04/DSA/tree/master/1812-determine-color-of-a-chessboard-square) |
 <!---LeetCode Topics End-->

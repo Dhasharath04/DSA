@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1925-count-square-sum-triples](https://github.com/Dhasharath04/DSA/tree/master/1925-count-square-sum-triples) |
 | [2235-add-two-integers](https://github.com/Dhasharath04/DSA/tree/master/2235-add-two-integers) |
 | [2317-maximum-xor-after-operations](https://github.com/Dhasharath04/DSA/tree/master/2317-maximum-xor-after-operations) |
+| [2413-smallest-even-multiple](https://github.com/Dhasharath04/DSA/tree/master/2413-smallest-even-multiple) |
 ## String
 |  |
 | ------- |
@@ -25,4 +26,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2317-maximum-xor-after-operations](https://github.com/Dhasharath04/DSA/tree/master/2317-maximum-xor-after-operations) |
+## Number Theory
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/Dhasharath04/DSA/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->

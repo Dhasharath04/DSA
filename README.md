@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Dhasharath04/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1207-unique-number-of-occurrences](https://github.com/Dhasharath04/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Dhasharath04/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/Dhasharath04/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1816-truncate-sentence](https://github.com/Dhasharath04/DSA/tree/master/1816-truncate-sentence) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Dhasharath04/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2317-maximum-xor-after-operations](https://github.com/Dhasharath04/DSA/tree/master/2317-maximum-xor-after-operations) |

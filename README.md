@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1844-replace-all-digits-with-characters](https://github.com/Dhasharath04/DSA/tree/master/1844-replace-all-digits-with-characters) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Dhasharath04/DSA/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Dhasharath04/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Dhasharath04/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2785-sort-vowels-in-a-string](https://github.com/Dhasharath04/DSA/tree/master/2785-sort-vowels-in-a-string) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Dhasharath04/DSA/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 ## Enumeration
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Dhasharath04/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1816-truncate-sentence](https://github.com/Dhasharath04/DSA/tree/master/1816-truncate-sentence) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Dhasharath04/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2317-maximum-xor-after-operations](https://github.com/Dhasharath04/DSA/tree/master/2317-maximum-xor-after-operations) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Dhasharath04/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Dhasharath04/DSA/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |

@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0890-find-and-replace-pattern](https://github.com/Dhasharath04/DSA/tree/master/0890-find-and-replace-pattern) |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/Dhasharath04/DSA/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
+| [1528-shuffle-string](https://github.com/Dhasharath04/DSA/tree/master/1528-shuffle-string) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Dhasharath04/DSA/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1768-merge-strings-alternately](https://github.com/Dhasharath04/DSA/tree/master/1768-merge-strings-alternately) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Dhasharath04/DSA/tree/master/1812-determine-color-of-a-chessboard-square) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/Dhasharath04/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Dhasharath04/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Dhasharath04/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1528-shuffle-string](https://github.com/Dhasharath04/DSA/tree/master/1528-shuffle-string) |
 | [1732-find-the-highest-altitude](https://github.com/Dhasharath04/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1816-truncate-sentence](https://github.com/Dhasharath04/DSA/tree/master/1816-truncate-sentence) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Dhasharath04/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |

@@ -143,4 +143,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1980-find-unique-binary-string](https://github.com/Dhasharath04/DSA/tree/master/1980-find-unique-binary-string) |
+## Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/Dhasharath04/DSA/tree/master/0226-invert-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/Dhasharath04/DSA/tree/master/0226-invert-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/Dhasharath04/DSA/tree/master/0226-invert-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/Dhasharath04/DSA/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->

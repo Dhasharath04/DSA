@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Dhasharath04/DSA/tree/master/0020-valid-parentheses) |
 | [0205-isomorphic-strings](https://github.com/Dhasharath04/DSA/tree/master/0205-isomorphic-strings) |
+| [0451-sort-characters-by-frequency](https://github.com/Dhasharath04/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0696-count-binary-substrings](https://github.com/Dhasharath04/DSA/tree/master/0696-count-binary-substrings) |
 | [0890-find-and-replace-pattern](https://github.com/Dhasharath04/DSA/tree/master/0890-find-and-replace-pattern) |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/Dhasharath04/DSA/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Dhasharath04/DSA/tree/master/0001-two-sum) |
 | [0205-isomorphic-strings](https://github.com/Dhasharath04/DSA/tree/master/0205-isomorphic-strings) |
+| [0451-sort-characters-by-frequency](https://github.com/Dhasharath04/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0890-find-and-replace-pattern](https://github.com/Dhasharath04/DSA/tree/master/0890-find-and-replace-pattern) |
 | [1207-unique-number-of-occurrences](https://github.com/Dhasharath04/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Dhasharath04/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Dhasharath04/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Dhasharath04/DSA/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Dhasharath04/DSA/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Dhasharath04/DSA/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
@@ -102,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Dhasharath04/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0977-squares-of-a-sorted-array](https://github.com/Dhasharath04/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Dhasharath04/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2785-sort-vowels-in-a-string](https://github.com/Dhasharath04/DSA/tree/master/2785-sort-vowels-in-a-string) |
@@ -175,4 +179,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Dhasharath04/DSA/tree/master/0053-maximum-subarray) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Dhasharath04/DSA/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Dhasharath04/DSA/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->

@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Dhasharath04/DSA/tree/master/0020-valid-parentheses) |
 | [0205-isomorphic-strings](https://github.com/Dhasharath04/DSA/tree/master/0205-isomorphic-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/Dhasharath04/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0647-palindromic-substrings](https://github.com/Dhasharath04/DSA/tree/master/0647-palindromic-substrings) |
 | [0686-repeated-string-match](https://github.com/Dhasharath04/DSA/tree/master/0686-repeated-string-match) |
 | [0696-count-binary-substrings](https://github.com/Dhasharath04/DSA/tree/master/0696-count-binary-substrings) |
 | [0890-find-and-replace-pattern](https://github.com/Dhasharath04/DSA/tree/master/0890-find-and-replace-pattern) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Dhasharath04/DSA/tree/master/0011-container-with-most-water) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Dhasharath04/DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0647-palindromic-substrings](https://github.com/Dhasharath04/DSA/tree/master/0647-palindromic-substrings) |
 | [0696-count-binary-substrings](https://github.com/Dhasharath04/DSA/tree/master/0696-count-binary-substrings) |
 | [0977-squares-of-a-sorted-array](https://github.com/Dhasharath04/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/Dhasharath04/DSA/tree/master/1768-merge-strings-alternately) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Dhasharath04/DSA/tree/master/0053-maximum-subarray) |
+| [0647-palindromic-substrings](https://github.com/Dhasharath04/DSA/tree/master/0647-palindromic-substrings) |
 ## Heap (Priority Queue)
 |  |
 | ------- |

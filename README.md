@@ -2,8 +2,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Math
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Dhasharath04/DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Dhasharath04/DSA/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Dhasharath04/DSA/tree/master/1812-determine-color-of-a-chessboard-square) |
@@ -14,8 +14,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2427-number-of-common-factors](https://github.com/Dhasharath04/DSA/tree/master/2427-number-of-common-factors) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Dhasharath04/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 ## String
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Dhasharath04/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/Dhasharath04/DSA/tree/master/0020-valid-parentheses) |
 | [0205-isomorphic-strings](https://github.com/Dhasharath04/DSA/tree/master/0205-isomorphic-strings) |
@@ -42,13 +42,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2785-sort-vowels-in-a-string](https://github.com/Dhasharath04/DSA/tree/master/2785-sort-vowels-in-a-string) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Dhasharath04/DSA/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 ## Enumeration
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1925-count-square-sum-triples](https://github.com/Dhasharath04/DSA/tree/master/1925-count-square-sum-triples) |
 | [2427-number-of-common-factors](https://github.com/Dhasharath04/DSA/tree/master/2427-number-of-common-factors) |
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/Dhasharath04/DSA/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Dhasharath04/DSA/tree/master/0011-container-with-most-water) |
 | [0053-maximum-subarray](https://github.com/Dhasharath04/DSA/tree/master/0053-maximum-subarray) |
@@ -73,8 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3379-transformed-array](https://github.com/Dhasharath04/DSA/tree/master/3379-transformed-array) |
 | [3637-trionic-array-i](https://github.com/Dhasharath04/DSA/tree/master/3637-trionic-array-i) |
 ## Bit Manipulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0190-reverse-bits](https://github.com/Dhasharath04/DSA/tree/master/0190-reverse-bits) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Dhasharath04/DSA/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Dhasharath04/DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -82,13 +82,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Dhasharath04/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2317-maximum-xor-after-operations](https://github.com/Dhasharath04/DSA/tree/master/2317-maximum-xor-after-operations) |
 ## Number Theory
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2413-smallest-even-multiple](https://github.com/Dhasharath04/DSA/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/Dhasharath04/DSA/tree/master/2427-number-of-common-factors) |
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/Dhasharath04/DSA/tree/master/0001-two-sum) |
 | [0205-isomorphic-strings](https://github.com/Dhasharath04/DSA/tree/master/0205-isomorphic-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/Dhasharath04/DSA/tree/master/0451-sort-characters-by-frequency) |
@@ -101,8 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-kth-distinct-string-in-an-array](https://github.com/Dhasharath04/DSA/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Dhasharath04/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 ## Counting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Dhasharath04/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Dhasharath04/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Dhasharath04/DSA/tree/master/1704-determine-if-string-halves-are-alike) |
@@ -111,24 +111,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-kth-distinct-string-in-an-array](https://github.com/Dhasharath04/DSA/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Dhasharath04/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 ## Sorting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Dhasharath04/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0977-squares-of-a-sorted-array](https://github.com/Dhasharath04/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Dhasharath04/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Dhasharath04/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2785-sort-vowels-in-a-string](https://github.com/Dhasharath04/DSA/tree/master/2785-sort-vowels-in-a-string) |
 ## Binary Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Dhasharath04/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Linked List
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Dhasharath04/DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 ## Two Pointers
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Dhasharath04/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Dhasharath04/DSA/tree/master/0011-container-with-most-water) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Dhasharath04/DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -139,69 +139,69 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Dhasharath04/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Dhasharath04/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Simulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3379-transformed-array](https://github.com/Dhasharath04/DSA/tree/master/3379-transformed-array) |
 ## Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Dhasharath04/DSA/tree/master/0020-valid-parentheses) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Dhasharath04/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Greedy
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Dhasharath04/DSA/tree/master/0011-container-with-most-water) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Dhasharath04/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Dhasharath04/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Counting Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Dhasharath04/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Prefix Sum
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1732-find-the-highest-altitude](https://github.com/Dhasharath04/DSA/tree/master/1732-find-the-highest-altitude) |
 ## Divide and Conquer
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Dhasharath04/DSA/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/Dhasharath04/DSA/tree/master/0190-reverse-bits) |
 ## Backtracking
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1980-find-unique-binary-string](https://github.com/Dhasharath04/DSA/tree/master/1980-find-unique-binary-string) |
 ## Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0226-invert-binary-tree](https://github.com/Dhasharath04/DSA/tree/master/0226-invert-binary-tree) |
 ## Depth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0226-invert-binary-tree](https://github.com/Dhasharath04/DSA/tree/master/0226-invert-binary-tree) |
 ## Breadth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0226-invert-binary-tree](https://github.com/Dhasharath04/DSA/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0226-invert-binary-tree](https://github.com/Dhasharath04/DSA/tree/master/0226-invert-binary-tree) |
 ## Dynamic Programming
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Dhasharath04/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Dhasharath04/DSA/tree/master/0053-maximum-subarray) |
 | [0647-palindromic-substrings](https://github.com/Dhasharath04/DSA/tree/master/0647-palindromic-substrings) |
 ## Heap (Priority Queue)
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Dhasharath04/DSA/tree/master/0451-sort-characters-by-frequency) |
 ## Bucket Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Dhasharath04/DSA/tree/master/0451-sort-characters-by-frequency) |
 ## String Matching
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0686-repeated-string-match](https://github.com/Dhasharath04/DSA/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->

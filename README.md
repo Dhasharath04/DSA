@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Dhasharath04/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Dhasharath04/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/Dhasharath04/DSA/tree/master/1980-find-unique-binary-string) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Dhasharath04/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Dhasharath04/DSA/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Dhasharath04/DSA/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Dhasharath04/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1816-truncate-sentence](https://github.com/Dhasharath04/DSA/tree/master/1816-truncate-sentence) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Dhasharath04/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/Dhasharath04/DSA/tree/master/1980-find-unique-binary-string) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Dhasharath04/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Dhasharath04/DSA/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Dhasharath04/DSA/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Dhasharath04/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Dhasharath04/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3379-transformed-array](https://github.com/Dhasharath04/DSA/tree/master/3379-transformed-array) |
 ## Stack
 |  |

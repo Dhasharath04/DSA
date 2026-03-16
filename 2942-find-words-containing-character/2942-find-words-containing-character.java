@@ -5,15 +5,9 @@ class Solution {
         for(int i=0;i<n;i++)
         {
             System.out.println(words[i]);
-            String str=words[i];
-            int d=str.length();
-            for(int j=0;j<d;j++)
+            if(words[i].indexOf(x)!=-1)
             {
-                if(str.charAt(j)==x)
-                {
-                    arr.add(i);
-                    break;
-                }
+                arr.add(i);
             }
         }
         return arr;

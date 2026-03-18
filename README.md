@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Dhasharath04/DSA/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Dhasharath04/DSA/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Dhasharath04/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/Dhasharath04/DSA/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2785-sort-vowels-in-a-string](https://github.com/Dhasharath04/DSA/tree/master/2785-sort-vowels-in-a-string) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Dhasharath04/DSA/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2942-find-words-containing-character](https://github.com/Dhasharath04/DSA/tree/master/2942-find-words-containing-character) |
@@ -164,12 +165,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Dhasharath04/DSA/tree/master/0020-valid-parentheses) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Dhasharath04/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/Dhasharath04/DSA/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Dhasharath04/DSA/tree/master/0011-container-with-most-water) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Dhasharath04/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Dhasharath04/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/Dhasharath04/DSA/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Counting Sort
 |  |
 | ------- |
@@ -188,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1980-find-unique-binary-string](https://github.com/Dhasharath04/DSA/tree/master/1980-find-unique-binary-string) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/Dhasharath04/DSA/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Tree
 |  |
 | ------- |

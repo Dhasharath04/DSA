@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3379-transformed-array](https://github.com/Dhasharath04/DSA/tree/master/3379-transformed-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Dhasharath04/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3637-trionic-array-i](https://github.com/Dhasharath04/DSA/tree/master/3637-trionic-array-i) |
+| [3668-restore-finishing-order](https://github.com/Dhasharath04/DSA/tree/master/3668-restore-finishing-order) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-kth-distinct-string-in-an-array](https://github.com/Dhasharath04/DSA/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Dhasharath04/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3146-permutation-difference-between-two-strings](https://github.com/Dhasharath04/DSA/tree/master/3146-permutation-difference-between-two-strings) |
+| [3668-restore-finishing-order](https://github.com/Dhasharath04/DSA/tree/master/3668-restore-finishing-order) |
 ## Counting
 |  |
 | ------- |

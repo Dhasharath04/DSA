@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2427-number-of-common-factors](https://github.com/Dhasharath04/DSA/tree/master/2427-number-of-common-factors) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Dhasharath04/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3280-convert-date-to-binary](https://github.com/Dhasharath04/DSA/tree/master/3280-convert-date-to-binary) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Dhasharath04/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## String
 |  |
 | ------- |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Dhasharath04/DSA/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2942-find-words-containing-character](https://github.com/Dhasharath04/DSA/tree/master/2942-find-words-containing-character) |
 | [3379-transformed-array](https://github.com/Dhasharath04/DSA/tree/master/3379-transformed-array) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Dhasharath04/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3637-trionic-array-i](https://github.com/Dhasharath04/DSA/tree/master/3637-trionic-array-i) |
 ## Bit Manipulation
 |  |

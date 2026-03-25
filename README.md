@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Dhasharath04/DSA/tree/master/0066-plus-one) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Dhasharath04/DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Dhasharath04/DSA/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Dhasharath04/DSA/tree/master/1812-determine-color-of-a-chessboard-square) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Dhasharath04/DSA/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/Dhasharath04/DSA/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/Dhasharath04/DSA/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/Dhasharath04/DSA/tree/master/0066-plus-one) |
 | [0300-longest-increasing-subsequence](https://github.com/Dhasharath04/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Dhasharath04/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0890-find-and-replace-pattern](https://github.com/Dhasharath04/DSA/tree/master/0890-find-and-replace-pattern) |

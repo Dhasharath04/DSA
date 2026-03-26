@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/Dhasharath04/DSA/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/Dhasharath04/DSA/tree/master/3110-score-of-a-string) |
 | [3146-permutation-difference-between-two-strings](https://github.com/Dhasharath04/DSA/tree/master/3146-permutation-difference-between-two-strings) |
+| [3271-hash-divided-string](https://github.com/Dhasharath04/DSA/tree/master/3271-hash-divided-string) |
 | [3280-convert-date-to-binary](https://github.com/Dhasharath04/DSA/tree/master/3280-convert-date-to-binary) |
 | [3498-reverse-degree-of-a-string](https://github.com/Dhasharath04/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Enumeration
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Dhasharath04/DSA/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Dhasharath04/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Dhasharath04/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3271-hash-divided-string](https://github.com/Dhasharath04/DSA/tree/master/3271-hash-divided-string) |
 | [3379-transformed-array](https://github.com/Dhasharath04/DSA/tree/master/3379-transformed-array) |
 | [3498-reverse-degree-of-a-string](https://github.com/Dhasharath04/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack

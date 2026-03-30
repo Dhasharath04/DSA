@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Dhasharath04/DSA/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Dhasharath04/DSA/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Dhasharath04/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/Dhasharath04/DSA/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Dhasharath04/DSA/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2390-removing-stars-from-a-string](https://github.com/Dhasharath04/DSA/tree/master/2390-removing-stars-from-a-string) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Dhasharath04/DSA/tree/master/2486-append-characters-to-string-to-make-subsequence) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/Dhasharath04/DSA/tree/master/1980-find-unique-binary-string) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Dhasharath04/DSA/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Dhasharath04/DSA/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/Dhasharath04/DSA/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Dhasharath04/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3146-permutation-difference-between-two-strings](https://github.com/Dhasharath04/DSA/tree/master/3146-permutation-difference-between-two-strings) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Dhasharath04/DSA/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Dhasharath04/DSA/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Dhasharath04/DSA/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Dhasharath04/DSA/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/Dhasharath04/DSA/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Dhasharath04/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3467-transform-array-by-parity](https://github.com/Dhasharath04/DSA/tree/master/3467-transform-array-by-parity) |
 ## Sorting

@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Dhasharath04/DSA/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Dhasharath04/DSA/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1925-count-square-sum-triples](https://github.com/Dhasharath04/DSA/tree/master/1925-count-square-sum-triples) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Dhasharath04/DSA/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2235-add-two-integers](https://github.com/Dhasharath04/DSA/tree/master/2235-add-two-integers) |
 | [2317-maximum-xor-after-operations](https://github.com/Dhasharath04/DSA/tree/master/2317-maximum-xor-after-operations) |
 | [2396-strictly-palindromic-number](https://github.com/Dhasharath04/DSA/tree/master/2396-strictly-palindromic-number) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-kth-distinct-string-in-an-array](https://github.com/Dhasharath04/DSA/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Dhasharath04/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Dhasharath04/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Dhasharath04/DSA/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2317-maximum-xor-after-operations](https://github.com/Dhasharath04/DSA/tree/master/2317-maximum-xor-after-operations) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Dhasharath04/DSA/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Dhasharath04/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Dhasharath04/DSA/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2413-smallest-even-multiple](https://github.com/Dhasharath04/DSA/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/Dhasharath04/DSA/tree/master/2427-number-of-common-factors) |
 ## Hash Table
@@ -211,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Dhasharath04/DSA/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Dhasharath04/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Dhasharath04/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Dhasharath04/DSA/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2390-removing-stars-from-a-string](https://github.com/Dhasharath04/DSA/tree/master/2390-removing-stars-from-a-string) |
 | [3271-hash-divided-string](https://github.com/Dhasharath04/DSA/tree/master/3271-hash-divided-string) |
 | [3379-transformed-array](https://github.com/Dhasharath04/DSA/tree/master/3379-transformed-array) |
@@ -301,4 +305,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/Dhasharath04/DSA/tree/master/2396-strictly-palindromic-number) |
+## Combinatorics
+|  |
+| ------- |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Dhasharath04/DSA/tree/master/2221-find-triangular-sum-of-an-array) |
 <!---LeetCode Topics End-->

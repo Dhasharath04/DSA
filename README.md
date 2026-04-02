@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Dhasharath04/DSA/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/Dhasharath04/DSA/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Dhasharath04/DSA/tree/master/0066-plus-one) |
+| [0090-subsets-ii](https://github.com/Dhasharath04/DSA/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/Dhasharath04/DSA/tree/master/0118-pascals-triangle) |
 | [0300-longest-increasing-subsequence](https://github.com/Dhasharath04/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Dhasharath04/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/Dhasharath04/DSA/tree/master/0090-subsets-ii) |
 | [0190-reverse-bits](https://github.com/Dhasharath04/DSA/tree/master/0190-reverse-bits) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Dhasharath04/DSA/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Dhasharath04/DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/Dhasharath04/DSA/tree/master/0090-subsets-ii) |
 | [1980-find-unique-binary-string](https://github.com/Dhasharath04/DSA/tree/master/1980-find-unique-binary-string) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Dhasharath04/DSA/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Tree

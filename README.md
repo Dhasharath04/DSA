@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Dhasharath04/DSA/tree/master/0066-plus-one) |
 | [0090-subsets-ii](https://github.com/Dhasharath04/DSA/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/Dhasharath04/DSA/tree/master/0118-pascals-triangle) |
+| [0162-find-peak-element](https://github.com/Dhasharath04/DSA/tree/master/0162-find-peak-element) |
 | [0300-longest-increasing-subsequence](https://github.com/Dhasharath04/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Dhasharath04/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0890-find-and-replace-pattern](https://github.com/Dhasharath04/DSA/tree/master/0890-find-and-replace-pattern) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Dhasharath04/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0162-find-peak-element](https://github.com/Dhasharath04/DSA/tree/master/0162-find-peak-element) |
 | [0300-longest-increasing-subsequence](https://github.com/Dhasharath04/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Dhasharath04/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Linked List

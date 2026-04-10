@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Dhasharath04/DSA/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/Dhasharath04/DSA/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Dhasharath04/DSA/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/Dhasharath04/DSA/tree/master/0075-sort-colors) |
 | [0090-subsets-ii](https://github.com/Dhasharath04/DSA/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/Dhasharath04/DSA/tree/master/0118-pascals-triangle) |
 | [0162-find-peak-element](https://github.com/Dhasharath04/DSA/tree/master/0162-find-peak-element) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Dhasharath04/DSA/tree/master/0075-sort-colors) |
 | [0451-sort-characters-by-frequency](https://github.com/Dhasharath04/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0977-squares-of-a-sorted-array](https://github.com/Dhasharath04/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Dhasharath04/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Dhasharath04/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Dhasharath04/DSA/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Dhasharath04/DSA/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/Dhasharath04/DSA/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Dhasharath04/DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0647-palindromic-substrings](https://github.com/Dhasharath04/DSA/tree/master/0647-palindromic-substrings) |
 | [0696-count-binary-substrings](https://github.com/Dhasharath04/DSA/tree/master/0696-count-binary-substrings) |

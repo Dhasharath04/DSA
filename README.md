@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Dhasharath04/DSA/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/Dhasharath04/DSA/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/Dhasharath04/DSA/tree/master/0053-maximum-subarray) |
+| [0059-spiral-matrix-ii](https://github.com/Dhasharath04/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/Dhasharath04/DSA/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Dhasharath04/DSA/tree/master/0075-sort-colors) |
 | [0090-subsets-ii](https://github.com/Dhasharath04/DSA/tree/master/0090-subsets-ii) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/Dhasharath04/DSA/tree/master/0059-spiral-matrix-ii) |
 | [1701-average-waiting-time](https://github.com/Dhasharath04/DSA/tree/master/1701-average-waiting-time) |
 | [1920-build-array-from-permutation](https://github.com/Dhasharath04/DSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Dhasharath04/DSA/tree/master/1929-concatenation-of-array) |
@@ -324,4 +326,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Dhasharath04/DSA/tree/master/2221-find-triangular-sum-of-an-array) |
+## Matrix
+|  |
+| ------- |
+| [0059-spiral-matrix-ii](https://github.com/Dhasharath04/DSA/tree/master/0059-spiral-matrix-ii) |
 <!---LeetCode Topics End-->

@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/Dhasharath04/DSA/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1451-rearrange-words-in-a-sentence](https://github.com/Dhasharath04/DSA/tree/master/1451-rearrange-words-in-a-sentence) |
 | [1528-shuffle-string](https://github.com/Dhasharath04/DSA/tree/master/1528-shuffle-string) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Dhasharath04/DSA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/Dhasharath04/DSA/tree/master/1678-goal-parser-interpretation) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Dhasharath04/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Dhasharath04/DSA/tree/master/1704-determine-if-string-halves-are-alike) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Dhasharath04/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Dhasharath04/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1528-shuffle-string](https://github.com/Dhasharath04/DSA/tree/master/1528-shuffle-string) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Dhasharath04/DSA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1701-average-waiting-time](https://github.com/Dhasharath04/DSA/tree/master/1701-average-waiting-time) |
 | [1732-find-the-highest-altitude](https://github.com/Dhasharath04/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Dhasharath04/DSA/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |

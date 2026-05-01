@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-removing-stars-from-a-string](https://github.com/Dhasharath04/DSA/tree/master/2390-removing-stars-from-a-string) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Dhasharath04/DSA/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2678-number-of-senior-citizens](https://github.com/Dhasharath04/DSA/tree/master/2678-number-of-senior-citizens) |
+| [2716-minimize-string-length](https://github.com/Dhasharath04/DSA/tree/master/2716-minimize-string-length) |
 | [2785-sort-vowels-in-a-string](https://github.com/Dhasharath04/DSA/tree/master/2785-sort-vowels-in-a-string) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Dhasharath04/DSA/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Dhasharath04/DSA/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2103-rings-and-rods](https://github.com/Dhasharath04/DSA/tree/master/2103-rings-and-rods) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/Dhasharath04/DSA/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Dhasharath04/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2716-minimize-string-length](https://github.com/Dhasharath04/DSA/tree/master/2716-minimize-string-length) |
 | [3146-permutation-difference-between-two-strings](https://github.com/Dhasharath04/DSA/tree/master/3146-permutation-difference-between-two-strings) |
 | [3223-minimum-length-of-string-after-operations](https://github.com/Dhasharath04/DSA/tree/master/3223-minimum-length-of-string-after-operations) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Dhasharath04/DSA/tree/master/3289-the-two-sneaky-numbers-of-digitville) |

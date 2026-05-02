@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Dhasharath04/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2469-convert-the-temperature](https://github.com/Dhasharath04/DSA/tree/master/2469-convert-the-temperature) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Dhasharath04/DSA/tree/master/2769-find-the-maximum-achievable-number) |
+| [2864-maximum-odd-binary-number](https://github.com/Dhasharath04/DSA/tree/master/2864-maximum-odd-binary-number) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Dhasharath04/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3280-convert-date-to-binary](https://github.com/Dhasharath04/DSA/tree/master/3280-convert-date-to-binary) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Dhasharath04/DSA/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2785-sort-vowels-in-a-string](https://github.com/Dhasharath04/DSA/tree/master/2785-sort-vowels-in-a-string) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Dhasharath04/DSA/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Dhasharath04/DSA/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [2864-maximum-odd-binary-number](https://github.com/Dhasharath04/DSA/tree/master/2864-maximum-odd-binary-number) |
 | [2942-find-words-containing-character](https://github.com/Dhasharath04/DSA/tree/master/2942-find-words-containing-character) |
 | [3019-number-of-changing-keys](https://github.com/Dhasharath04/DSA/tree/master/3019-number-of-changing-keys) |
 | [3110-score-of-a-string](https://github.com/Dhasharath04/DSA/tree/master/3110-score-of-a-string) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Dhasharath04/DSA/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Dhasharath04/DSA/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Dhasharath04/DSA/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+| [2864-maximum-odd-binary-number](https://github.com/Dhasharath04/DSA/tree/master/2864-maximum-odd-binary-number) |
 ## Counting Sort
 |  |
 | ------- |

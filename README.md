@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0686-repeated-string-match](https://github.com/Dhasharath04/DSA/tree/master/0686-repeated-string-match) |
 | [0696-count-binary-substrings](https://github.com/Dhasharath04/DSA/tree/master/0696-count-binary-substrings) |
 | [0890-find-and-replace-pattern](https://github.com/Dhasharath04/DSA/tree/master/0890-find-and-replace-pattern) |
+| [1002-find-common-characters](https://github.com/Dhasharath04/DSA/tree/master/1002-find-common-characters) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Dhasharath04/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Dhasharath04/DSA/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/Dhasharath04/DSA/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Dhasharath04/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0890-find-and-replace-pattern](https://github.com/Dhasharath04/DSA/tree/master/0890-find-and-replace-pattern) |
 | [0977-squares-of-a-sorted-array](https://github.com/Dhasharath04/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [1002-find-common-characters](https://github.com/Dhasharath04/DSA/tree/master/1002-find-common-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/Dhasharath04/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Dhasharath04/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Dhasharath04/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Dhasharath04/DSA/tree/master/0205-isomorphic-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/Dhasharath04/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0890-find-and-replace-pattern](https://github.com/Dhasharath04/DSA/tree/master/0890-find-and-replace-pattern) |
+| [1002-find-common-characters](https://github.com/Dhasharath04/DSA/tree/master/1002-find-common-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/Dhasharath04/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Dhasharath04/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Dhasharath04/DSA/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |

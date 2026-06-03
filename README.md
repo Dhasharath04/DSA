@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Dhasharath04/DSA/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dhasharath04/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Dhasharath04/DSA/tree/master/0205-isomorphic-strings) |
+| [0383-ransom-note](https://github.com/Dhasharath04/DSA/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/Dhasharath04/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0647-palindromic-substrings](https://github.com/Dhasharath04/DSA/tree/master/0647-palindromic-substrings) |
 | [0686-repeated-string-match](https://github.com/Dhasharath04/DSA/tree/master/0686-repeated-string-match) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Dhasharath04/DSA/tree/master/0001-two-sum) |
 | [0205-isomorphic-strings](https://github.com/Dhasharath04/DSA/tree/master/0205-isomorphic-strings) |
+| [0383-ransom-note](https://github.com/Dhasharath04/DSA/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/Dhasharath04/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0890-find-and-replace-pattern](https://github.com/Dhasharath04/DSA/tree/master/0890-find-and-replace-pattern) |
 | [1002-find-common-characters](https://github.com/Dhasharath04/DSA/tree/master/1002-find-common-characters) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/Dhasharath04/DSA/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/Dhasharath04/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Dhasharath04/DSA/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Dhasharath04/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |

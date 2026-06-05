@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2103-rings-and-rods](https://github.com/Dhasharath04/DSA/tree/master/2103-rings-and-rods) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Dhasharath04/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/Dhasharath04/DSA/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
+| [2278-percentage-of-letter-in-string](https://github.com/Dhasharath04/DSA/tree/master/2278-percentage-of-letter-in-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/Dhasharath04/DSA/tree/master/2351-first-letter-to-appear-twice) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Dhasharath04/DSA/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2390-removing-stars-from-a-string](https://github.com/Dhasharath04/DSA/tree/master/2390-removing-stars-from-a-string) |

@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1925-count-square-sum-triples](https://github.com/Dhasharath04/DSA/tree/master/1925-count-square-sum-triples) |
 | [2427-number-of-common-factors](https://github.com/Dhasharath04/DSA/tree/master/2427-number-of-common-factors) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Dhasharath04/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Dhasharath04/DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Array
 |  |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Dhasharath04/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2574-left-and-right-sum-differences](https://github.com/Dhasharath04/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [2678-number-of-senior-citizens](https://github.com/Dhasharath04/DSA/tree/master/2678-number-of-senior-citizens) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Dhasharath04/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Dhasharath04/DSA/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Dhasharath04/DSA/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2942-find-words-containing-character](https://github.com/Dhasharath04/DSA/tree/master/2942-find-words-containing-character) |

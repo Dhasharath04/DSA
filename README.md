@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2427-number-of-common-factors](https://github.com/Dhasharath04/DSA/tree/master/2427-number-of-common-factors) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Dhasharath04/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2469-convert-the-temperature](https://github.com/Dhasharath04/DSA/tree/master/2469-convert-the-temperature) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Dhasharath04/DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Dhasharath04/DSA/tree/master/2769-find-the-maximum-achievable-number) |
 | [2864-maximum-odd-binary-number](https://github.com/Dhasharath04/DSA/tree/master/2864-maximum-odd-binary-number) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Dhasharath04/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2317-maximum-xor-after-operations](https://github.com/Dhasharath04/DSA/tree/master/2317-maximum-xor-after-operations) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Dhasharath04/DSA/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Dhasharath04/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Dhasharath04/DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Dhasharath04/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Dhasharath04/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2678-number-of-senior-citizens](https://github.com/Dhasharath04/DSA/tree/master/2678-number-of-senior-citizens) |

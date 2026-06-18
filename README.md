@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Dhasharath04/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Dhasharath04/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0890-find-and-replace-pattern](https://github.com/Dhasharath04/DSA/tree/master/0890-find-and-replace-pattern) |
+| [0912-sort-an-array](https://github.com/Dhasharath04/DSA/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Dhasharath04/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1002-find-common-characters](https://github.com/Dhasharath04/DSA/tree/master/1002-find-common-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/Dhasharath04/DSA/tree/master/1207-unique-number-of-occurrences) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Dhasharath04/DSA/tree/master/0075-sort-colors) |
 | [0451-sort-characters-by-frequency](https://github.com/Dhasharath04/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0912-sort-an-array](https://github.com/Dhasharath04/DSA/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Dhasharath04/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Dhasharath04/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Dhasharath04/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/Dhasharath04/DSA/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Dhasharath04/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Dhasharath04/DSA/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Prefix Sum
@@ -354,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Dhasharath04/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Dhasharath04/DSA/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/Dhasharath04/DSA/tree/master/0190-reverse-bits) |
+| [0912-sort-an-array](https://github.com/Dhasharath04/DSA/tree/master/0912-sort-an-array) |
 ## Backtracking
 |  |
 | ------- |
@@ -394,10 +398,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Dhasharath04/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0912-sort-an-array](https://github.com/Dhasharath04/DSA/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Dhasharath04/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0912-sort-an-array](https://github.com/Dhasharath04/DSA/tree/master/0912-sort-an-array) |
 ## String Matching
 |  |
 | ------- |
@@ -431,4 +437,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Dhasharath04/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Dhasharath04/DSA/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Dhasharath04/DSA/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->

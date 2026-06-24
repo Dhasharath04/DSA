@@ -13,7 +13,7 @@ class Solution {
             d=d/10;
         }
         }
-        for(int i=1;i<k;i++)
+        for(int i=2;i<=k;i++)
         {
             int ns=0;
             while(s1>0)

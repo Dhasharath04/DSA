@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Dhasharath04/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/Dhasharath04/DSA/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Dhasharath04/DSA/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Dhasharath04/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Dhasharath04/DSA/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/Dhasharath04/DSA/tree/master/0118-pascals-triangle) |
 | [0162-find-peak-element](https://github.com/Dhasharath04/DSA/tree/master/0162-find-peak-element) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Dhasharath04/DSA/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/Dhasharath04/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Dhasharath04/DSA/tree/master/0090-subsets-ii) |
 | [0190-reverse-bits](https://github.com/Dhasharath04/DSA/tree/master/0190-reverse-bits) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Dhasharath04/DSA/tree/master/0693-binary-number-with-alternating-bits) |
@@ -405,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Dhasharath04/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Dhasharath04/DSA/tree/master/0090-subsets-ii) |
 | [1980-find-unique-binary-string](https://github.com/Dhasharath04/DSA/tree/master/1980-find-unique-binary-string) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Dhasharath04/DSA/tree/master/2375-construct-smallest-number-from-di-string) |

@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Dhasharath04/DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Dhasharath04/DSA/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Dhasharath04/DSA/tree/master/1812-determine-color-of-a-chessboard-square) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/Dhasharath04/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1925-count-square-sum-triples](https://github.com/Dhasharath04/DSA/tree/master/1925-count-square-sum-triples) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Dhasharath04/DSA/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2235-add-two-integers](https://github.com/Dhasharath04/DSA/tree/master/2235-add-two-integers) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/Dhasharath04/DSA/tree/master/1748-sum-of-unique-elements) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Dhasharath04/DSA/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1816-truncate-sentence](https://github.com/Dhasharath04/DSA/tree/master/1816-truncate-sentence) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/Dhasharath04/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/Dhasharath04/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1920-build-array-from-permutation](https://github.com/Dhasharath04/DSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Dhasharath04/DSA/tree/master/1929-concatenation-of-array) |

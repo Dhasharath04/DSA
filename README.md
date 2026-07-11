@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1816-truncate-sentence](https://github.com/Dhasharath04/DSA/tree/master/1816-truncate-sentence) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Dhasharath04/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/Dhasharath04/DSA/tree/master/1833-maximum-ice-cream-bars) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/Dhasharath04/DSA/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1920-build-array-from-permutation](https://github.com/Dhasharath04/DSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Dhasharath04/DSA/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Dhasharath04/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |

@@ -1,4 +1,5 @@
 class Solution {
+    
     public List<List<Integer>> subsets(int[] nums) {
         int n=nums.length;
         int subsets=1<<n;

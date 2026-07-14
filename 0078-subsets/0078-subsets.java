@@ -1,22 +1,20 @@
 class Solution {
-    
+    List<List<Integer>> d=new ArrayList<>();
     public List<List<Integer>> subsets(int[] nums) {
-        int n=nums.length;
-        int subsets=1<<n;
-        List<List<Integer>> ans=new ArrayList();
-        for(int i=0;i<subsets;i++)
-        {
-             List<Integer> sub1=new ArrayList();
-             for(int j=0;j<n;j++)
-             {
-             if((i &(1<<j)) !=0){
-                sub1.add(nums[j]);
-             }
-             }
-         ans.add(sub1);
-        }
-        return ans;
-
+        findsub(nums,0,new ArrayList<>());
+        return d;
         
+    }
+    public void findsub(int nums[],int ind,ArrayList<Integer> arr)
+    {
+        if(ind==nums.length)
+        {
+            d.add(new ArrayList<>(arr));
+            return;
+        }
+            arr.add(nums[ind]);
+            findsub(nums,ind+1,arr);
+            arr.remove(arr.size()-1);
+            findsub(nums,ind+1,arr);
     }
 }

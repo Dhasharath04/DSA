@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1451-rearrange-words-in-a-sentence](https://github.com/Dhasharath04/DSA/tree/master/1451-rearrange-words-in-a-sentence) |
 | [1496-path-crossing](https://github.com/Dhasharath04/DSA/tree/master/1496-path-crossing) |
 | [1528-shuffle-string](https://github.com/Dhasharath04/DSA/tree/master/1528-shuffle-string) |
+| [1624-largest-substring-between-two-equal-characters](https://github.com/Dhasharath04/DSA/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Dhasharath04/DSA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/Dhasharath04/DSA/tree/master/1678-goal-parser-interpretation) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Dhasharath04/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Dhasharath04/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Dhasharath04/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1496-path-crossing](https://github.com/Dhasharath04/DSA/tree/master/1496-path-crossing) |
+| [1624-largest-substring-between-two-equal-characters](https://github.com/Dhasharath04/DSA/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1748-sum-of-unique-elements](https://github.com/Dhasharath04/DSA/tree/master/1748-sum-of-unique-elements) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Dhasharath04/DSA/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1980-find-unique-binary-string](https://github.com/Dhasharath04/DSA/tree/master/1980-find-unique-binary-string) |

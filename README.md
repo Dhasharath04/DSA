@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Dhasharath04/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/Dhasharath04/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1528-shuffle-string](https://github.com/Dhasharath04/DSA/tree/master/1528-shuffle-string) |
+| [1550-three-consecutive-odds](https://github.com/Dhasharath04/DSA/tree/master/1550-three-consecutive-odds) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Dhasharath04/DSA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1701-average-waiting-time](https://github.com/Dhasharath04/DSA/tree/master/1701-average-waiting-time) |
 | [1732-find-the-highest-altitude](https://github.com/Dhasharath04/DSA/tree/master/1732-find-the-highest-altitude) |

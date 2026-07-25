@@ -4,6 +4,7 @@ class Solution {
         while(n>0)
         {
             int d=n%10;
+            System.out.println(d);
                 arr.add(d);
             n=n/10;
         }

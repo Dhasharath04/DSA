@@ -2,7 +2,7 @@ class Solution {
     public int maximumElementAfterDecrementingAndRearranging(int[] arr) {
         int n=arr.length;
         int[] arr1=new int[n];
-        Arrays.sort(arr);
+         Arrays.sort(arr);
       
         arr1[0]=1;
         // int j=1;

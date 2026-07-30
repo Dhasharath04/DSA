@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3223-minimum-length-of-string-after-operations](https://github.com/Dhasharath04/DSA/tree/master/3223-minimum-length-of-string-after-operations) |
 | [3271-hash-divided-string](https://github.com/Dhasharath04/DSA/tree/master/3271-hash-divided-string) |
 | [3280-convert-date-to-binary](https://github.com/Dhasharath04/DSA/tree/master/3280-convert-date-to-binary) |
+| [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/Dhasharath04/DSA/tree/master/3324-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3498-reverse-degree-of-a-string](https://github.com/Dhasharath04/DSA/tree/master/3498-reverse-degree-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Dhasharath04/DSA/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3794-reverse-string-prefix](https://github.com/Dhasharath04/DSA/tree/master/3794-reverse-string-prefix) |
@@ -390,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2562-find-the-array-concatenation-value](https://github.com/Dhasharath04/DSA/tree/master/2562-find-the-array-concatenation-value) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Dhasharath04/DSA/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3271-hash-divided-string](https://github.com/Dhasharath04/DSA/tree/master/3271-hash-divided-string) |
+| [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/Dhasharath04/DSA/tree/master/3324-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3379-transformed-array](https://github.com/Dhasharath04/DSA/tree/master/3379-transformed-array) |
 | [3498-reverse-degree-of-a-string](https://github.com/Dhasharath04/DSA/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Dhasharath04/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |

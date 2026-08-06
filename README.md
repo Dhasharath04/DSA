@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Dhasharath04/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3280-convert-date-to-binary](https://github.com/Dhasharath04/DSA/tree/master/3280-convert-date-to-binary) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Dhasharath04/DSA/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Dhasharath04/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Dhasharath04/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Dhasharath04/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Dhasharath04/DSA/tree/master/3536-maximum-product-of-two-digits) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1925-count-square-sum-triples](https://github.com/Dhasharath04/DSA/tree/master/1925-count-square-sum-triples) |
 | [2427-number-of-common-factors](https://github.com/Dhasharath04/DSA/tree/master/2427-number-of-common-factors) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Dhasharath04/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Dhasharath04/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Dhasharath04/DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Array
 |  |

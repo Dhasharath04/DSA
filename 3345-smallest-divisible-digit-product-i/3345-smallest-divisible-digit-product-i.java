@@ -1,7 +1,7 @@
 class Solution {
     public int smallestNumber(int n, int t) {
         
-        for(int i=n;;i++)
+        for(int i=n;i<=100;i++)
         {
             int s=1;
             int d=i;
@@ -16,7 +16,7 @@ class Solution {
                 return i;
             }
         }
-        
+        return -1;
         
     }
 }

@@ -18,8 +18,8 @@ class Solution {
         {
             sb.append(st1);
         }
-        String r=sb.toString();
-       return r;
+        return sb.toString();
+      
 
         
     }

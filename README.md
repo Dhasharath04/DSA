@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/Dhasharath04/DSA/tree/master/2942-find-words-containing-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Dhasharath04/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3019-number-of-changing-keys](https://github.com/Dhasharath04/DSA/tree/master/3019-number-of-changing-keys) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Dhasharath04/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3110-score-of-a-string](https://github.com/Dhasharath04/DSA/tree/master/3110-score-of-a-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Dhasharath04/DSA/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3146-permutation-difference-between-two-strings](https://github.com/Dhasharath04/DSA/tree/master/3146-permutation-difference-between-two-strings) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Dhasharath04/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2716-minimize-string-length](https://github.com/Dhasharath04/DSA/tree/master/2716-minimize-string-length) |
 | [2815-max-pair-sum-in-an-array](https://github.com/Dhasharath04/DSA/tree/master/2815-max-pair-sum-in-an-array) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Dhasharath04/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Dhasharath04/DSA/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3146-permutation-difference-between-two-strings](https://github.com/Dhasharath04/DSA/tree/master/3146-permutation-difference-between-two-strings) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Dhasharath04/DSA/tree/master/3162-find-the-number-of-good-pairs-i) |
@@ -542,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Dhasharath04/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Dhasharath04/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3206-alternating-groups-i](https://github.com/Dhasharath04/DSA/tree/master/3206-alternating-groups-i) |
 ## Merge Sort
 |  |

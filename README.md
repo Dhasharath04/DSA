@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3663-find-the-least-frequent-digit](https://github.com/Dhasharath04/DSA/tree/master/3663-find-the-least-frequent-digit) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Dhasharath04/DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Dhasharath04/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3870-count-commas-in-range](https://github.com/Dhasharath04/DSA/tree/master/3870-count-commas-in-range) |
 ## String
 |  |
 | ------- |

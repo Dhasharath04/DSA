@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2798-number-of-employees-who-met-the-target](https://github.com/Dhasharath04/DSA/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2815-max-pair-sum-in-an-array](https://github.com/Dhasharath04/DSA/tree/master/2815-max-pair-sum-in-an-array) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Dhasharath04/DSA/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Dhasharath04/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2942-find-words-containing-character](https://github.com/Dhasharath04/DSA/tree/master/2942-find-words-containing-character) |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/Dhasharath04/DSA/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Dhasharath04/DSA/tree/master/3162-find-the-number-of-good-pairs-i) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Dhasharath04/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2716-minimize-string-length](https://github.com/Dhasharath04/DSA/tree/master/2716-minimize-string-length) |
 | [2815-max-pair-sum-in-an-array](https://github.com/Dhasharath04/DSA/tree/master/2815-max-pair-sum-in-an-array) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Dhasharath04/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Dhasharath04/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Dhasharath04/DSA/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3146-permutation-difference-between-two-strings](https://github.com/Dhasharath04/DSA/tree/master/3146-permutation-difference-between-two-strings) |
@@ -575,4 +577,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Dhasharath04/DSA/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Dhasharath04/DSA/tree/master/0032-longest-valid-parentheses) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Dhasharath04/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Dhasharath04/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->

@@ -4,9 +4,8 @@ class Solution {
         if(s.contains(str))
         {
             return false;
-          
         }
+
         return true;
-        
     }
 }
